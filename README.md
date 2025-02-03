@@ -1,4 +1,3 @@
-# demo: https://hate-company.vercel.app/
 
 # Getting Started with Create React App
 
